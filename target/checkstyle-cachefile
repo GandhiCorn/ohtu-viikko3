@@ -1,0 +1,11 @@
+#Thu Mar 31 21:17:04 EEST 2016
+/home/tuisku/Koulu/ohtu-viikko3/src/main/java/ohtu/services/AuthenticationService.java=1459448214000
+/home/tuisku/Koulu/ohtu-viikko3/src/main/java/ohtu/domain/User.java=1459260224000
+/home/tuisku/Koulu/ohtu-viikko3/src/main/java/ohtu/io/StubIO.java=1459260224000
+/home/tuisku/Koulu/ohtu-viikko3/src/main/java/ohtu/io/IO.java=1459260224000
+/home/tuisku/Koulu/ohtu-viikko3/src/main/java/ohtu/io/ConsoleIO.java=1459260224000
+/home/tuisku/Koulu/ohtu-viikko3/src/main/java/ohtu/data_access/UserDao.java=1459260224000
+/home/tuisku/Koulu/ohtu-viikko3/src/main/java/ohtu/App.java=1459443326000
+/home/tuisku/Koulu/ohtu-viikko3/src/main/java/ohtu/data_access/InMemoryUserDao.java=1459260224000
+configuration*?=6C0614AA09168E4B176DCF5705FA0F31D31E2DA7
+/home/tuisku/Koulu/ohtu-viikko3/src/main/java/ohtu/data_access/FileUserDao.java=1459424308000
